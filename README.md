@@ -4,8 +4,9 @@
 Implementation of a grade book to keep track student grades for several couses that a professor teaches. Courses have department, course number, course name, semester, and year information.  For each course, the grade is caculated on various categories, including homework, tests, projects, etc.  
 
 ## Files
-* `project.sql`: The primary SQL file
-* `database.db`: The resulting SQLite database file (if included).
+* `project.sql`: The primary SQL file.
+* `er_diagram.pdf`: The entity-relationship diagram for the gradebook schema.
+* `presentation.pdf`: Visual representation of tables and tasks.
 
 ## Getting Started
 ### Methods
