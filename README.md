@@ -1,6 +1,3 @@
-# DatabaseSystemsGradebook
-CSCI 432 Final Project
-
 # Project Name: Gradebook Project
 
 ## Description
@@ -14,3 +11,5 @@ Implementation of a grade book to keep track student grades for several couses t
 ### Methods
 We used an online SQL editor (https://www.programiz.com/sql/online-compiler). This compiler uses the SQLite driver. If running with a database in any other code editor, please ensure you have installed the SQLite Command Line Interface.
 
+### Instructions
+Open the file, connect to a database if needed. Run the sql code.
