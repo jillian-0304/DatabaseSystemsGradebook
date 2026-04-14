@@ -6,7 +6,6 @@ Implementation of a grade book to keep track student grades for several couses t
 ## Files
 * `project.sql`: The primary SQL file.
 * `er_diagram.pdf`: The entity-relationship diagram for the gradebook schema.
-* `presentation.pdf`: Visual representation of tables and tasks.
 
 ## Getting Started
 ### Methods
